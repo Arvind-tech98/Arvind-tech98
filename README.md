@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arvind-singh-solanki-651392187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-singh-solanki-651392187" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/arvind-singh-solanki-4b5513314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-singh-solanki-4b5513314" height="30" width="40" /></a>
 <a href="https://medium.com/@arvindsolanki622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arvindsolanki622" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@arvindsinghsolanki1151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arvindsinghsolanki1151" height="30" width="40" /></a>
 </p>
